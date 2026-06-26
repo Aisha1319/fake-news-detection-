@@ -16,3 +16,8 @@ Accuracy, Precision, Recall, F1-score
 
 # Tools
 Python, Pandas, Scikit-learn, NLTK
+
+# Dataset Sources
+ISOT Fake News [https://www.kaggle.com/datasets/rahulogoel/isot-fake-news-dataset]
+LIAR Dataset [https://www.kaggle.com/datasets/doanquanvietnamca/liar-dataset]
+WELFake Dataset [https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification?select=WELFake_Dataset.csv]
